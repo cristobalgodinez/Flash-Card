@@ -1,0 +1,27 @@
+.body {
+  background-color: #2E073F;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+.card-body {
+  text-align: center;
+}
+.card-body a {
+  text-decoration: none;
+}
+.card-body p {
+  text-align: start;
+}
+
+.titulo-Temas {
+  display: flex;
+}
+
+.btn-temas {
+  font-family: "Bungee Tint", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}/*# sourceMappingURL=temas.css.map */

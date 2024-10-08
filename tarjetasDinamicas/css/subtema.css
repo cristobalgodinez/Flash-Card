@@ -1,0 +1,25 @@
+.body {
+  background-color: #2E073F;
+}
+.body .contenido h2 {
+  font-family: "Bungee Tint", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.body .titulo-SubTemas label {
+  font-family: "Bungee Tint", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.body .contenido-tarjetas .tituloFlashCard {
+  font-family: "Bungee Tint", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+}
+.body .contenido-SubTemas .contenidoFlashCard {
+  font-family: "Bungee Tint", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+}/*# sourceMappingURL=subtema.css.map */
